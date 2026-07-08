@@ -33,6 +33,8 @@ const DesktopSidebar: React.FC<DesktopSidebarProps> = ({
                 lg:border-r-[1px]
                 lg:pb-4
                 lg:flex
+                border-gray-200
+
                 lg:flex-col
                 justify-between
                 ">

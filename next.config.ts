@@ -10,7 +10,7 @@ images:{
     "lh3.googleusercontent.com"
   ]
  },
-  devIndicators: false
+  devIndicators: false,
 };
 
 export default nextConfig;

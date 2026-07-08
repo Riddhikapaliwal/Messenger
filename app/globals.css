@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
-html, 
+html,
 body,
-:root{
+:root {
   height: 100%;
 }
