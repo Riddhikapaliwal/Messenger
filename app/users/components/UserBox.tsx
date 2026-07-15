@@ -1,6 +1,6 @@
 'use client'
 
-import {User} from "@prisma/client";
+import {User} from "@/app/generated/prisma";
 import {useRouter} from "next/navigation";
 import {useState, useCallback} from "react";
 import axios from "axios";
